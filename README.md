@@ -8,9 +8,9 @@ This repository documents my journey learning Python, from basic programming con
 
 - **Exercises**: Practising Python fundamentals and programming concepts.
 - **FCC Projects**:Projects and exercises from FreeCodeCamp, workshops, and certifications (rebuild)
-- **Mini Project**: Small applications and experiments built to apply what I've learned.
+- **Mini Projects**: Small applications and experiments built to apply what I've learned.
 
-  ##Goal
+  ## Goal
 
   Building a solid Python foundation and exploring its possibilities in automation, AI, and application development.
 
